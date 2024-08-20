@@ -1,11 +1,21 @@
 # SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+To launch this project, please follow the instructions below:
 
-HAPPY CODING! </br>
-A Round Entertainment
+Backend:
+
+1. Open a command prompt.
+2. Navigate to the root directory of the backend (namely `(yourpath)/StarterCode/backend/`).
+3. Once in the directory install the dependencies using `npm install`, after which a folder named `node_modules` should appear in the directory.
+4. To start the backend server, use `npm start`.
+5. The backend server is now running on port 5001.
+
+Frontend:
+
+1. Open a command prompt.
+2. Navigate to the root directory of the frontend (namely `(yourpath)/StarterCode/frontend/`).
+3. Once in the directory install the dependencies using `npm install`, after which a folder named `node_modules` should appear in the directory.
+4. To start the frontend application, use `npm start`.
+5. You can now access the frontend application on any browser at `http://localhost:3000`.
+
+Eljo Kondi
